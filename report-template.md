@@ -26,12 +26,10 @@ I would say more EDA is necessary to understand features, I think also understan
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|time|num_bag_folds|num_bag_sets|num_stack_levels|score|
 |--|--|--|--|--|--|
-|initial|600|0|0|0|1.77030|
-|add_features|600|0|0|0|0.73771|
-|hpo|600|1|6|1|0.72622|
-|hpo2|900|10|20|3|0.73204|
-|hpo3|900|20|20|3|0.72299|
-
+|initial|600|0|0|0|1.78306|
+|add_features|600|0|0|0|0.74715|
+|hpo|600|1|6|1|0.48410|
+|hpo2|900|10|20|3|0.48410|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
